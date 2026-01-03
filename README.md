@@ -13,4 +13,4 @@ A simple Tic Tac Toe game built using Python to practice logic, conditionals, an
 - Structuring a small Python project
 
 ## How to run
-python main.py
+python runner.py
